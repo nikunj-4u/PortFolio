@@ -672,7 +672,7 @@ color:white;
     }
     .odd
     {
-       
+      
         padding-left:20px;
         text-align: left;
     }
@@ -681,7 +681,7 @@ color:white;
         width:50%;
     }
     #centr{
-        display:flex;
+        display: flex;
         justify-content: center;
     }
 }
