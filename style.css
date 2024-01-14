@@ -680,7 +680,7 @@ color:white;
         padding-left:20px;
         width:50%;
     }
-    #centr{
+    #centr,#uni{
         display:flex;
         justify-content: center;
     }
