@@ -181,16 +181,16 @@ to{
 }
 @keyframes words {
     0%, 20% {
-        content: 'frontEnd_Dev';
+        content:'fEnd_Dev';
     }
     21%, 40% {
-        content: 'web_designer';
+        content:'web_designR';
     }
     41%,60% {
-        content: 'Learner';
+        content:'Learner';
     }
     61%,100%{
-        content:'Content_Creator';
+        content:'bEnd_Dev';
     }
    
 }
