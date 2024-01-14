@@ -670,12 +670,14 @@ color:white;
     .timeline-items::before {
         left: 7px;
     }
-    .odd,
-    .even {
-        padding-left: 37px;
-    }
-    .odd {
-        padding: 0;
+    .odd
+    {
+       
+        padding-left:20px;
         text-align: left;
+    }
+    .even{
+        padding-left:20px;
+        width:50%;
     }
 }
