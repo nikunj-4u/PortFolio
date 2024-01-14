@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', function () {
                     links.classList.remove('active');
                     document.querySelector('header nav a[href*=' + id + ' ]').classList.add('active');
                 });
-               
             }
         });
     };
