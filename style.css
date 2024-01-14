@@ -179,29 +179,19 @@ to{
     border-left:2px solid var(--main-color);
 }
 }
-@keyframes words{
-    0%,
-    20%{
-        content:'fEnd Developer';
+@keyframes words {
+    0%, 20% {
+        content: 'frontEnd_Dev';
     }
-    21%,
-    40%{
-        content:'web designer';
+    21%, 40% {
+        content: 'web_designer';
     }
-    41%,
-    60%{
-        content:'Learner';
+    41%, 100% {
+        content: 'Learner';
     }
-    61%,
-    80%{
-        content:'Blogger';
-    }
-    81%,
-    100%{
-        content:'Content Creator';
-    }
-    
+   
 }
+
 @keyframes typing{
     10%,
     15%,
