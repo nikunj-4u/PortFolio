@@ -186,8 +186,11 @@ to{
     21%, 40% {
         content: 'web_designer';
     }
-    41%, 100% {
+    41%,60% {
         content: 'Learner';
+    }
+    61%,100%{
+        content:'Content_Creator'
     }
    
 }
